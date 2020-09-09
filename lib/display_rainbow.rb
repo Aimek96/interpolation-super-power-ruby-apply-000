@@ -1,7 +1,7 @@
 def display_rainbow
   colors = ["red","orange","yellow","green","blue","indigo","violet"]
 
-  puts  #{colors}"
+  puts  "#{colors}"
 end
 
 display_rainbow
